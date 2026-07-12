@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Can Yıldırım</h1>
-<h3 align="center">Full Stack .NET Developer | Software Engineer | Building scalable web applications</h3>
+<h3 align="center">
+  Full Stack .NET & React Developer | Software Engineer | Building Scalable Web Applications
+</h3>
 <br/>
 - 🔭 I’m currently working on **T3 Student Management System**
 
